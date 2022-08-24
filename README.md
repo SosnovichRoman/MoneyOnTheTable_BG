@@ -11,12 +11,12 @@ My first commercial project on Unity, made for Butcher Games. Unfortunately, I c
 ## Screenshot
 
 ### Start
-<img src="img/movie.gif" width="720">
+<img src="img/movie.gif" width="360">
 
 ____
 ### Gameplay
-<img src="img/table.jpg" width="720">
+<img src="img/table.jpg" width="360">
 
 ___
 ### End
-<img scr="img/end.jpg" width="720">
+<img src="img/end.jpg" width="360">
