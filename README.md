@@ -1,5 +1,4 @@
 # MoneyOnTheTable_BG
-# ShipPrototype
 My first commercial project on Unity, made for Butcher Games. Unfortunately, I can't upload the source code.
 
 ## Features
@@ -8,7 +7,7 @@ My first commercial project on Unity, made for Butcher Games. Unfortunately, I c
 + DoTween
 + Mixamo
 
-## Screenshot
+## Screenshots
 
 ### Start
 <img src="img/movie.gif" width="360">
